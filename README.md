@@ -17,7 +17,7 @@ Click on the links below to view the questions and their answers.
       * [3 Trees](#3-cpp-trees)
 
     * [Python](#Python)
-        * [1 Strings](##-1-Strings-py)\
+        * [1 Strings](##-1-Strings-py)
             - [1.1 Parenthesis Checker](###-1.1-Parenthesis-Checker-py)\
             - [1.2 Longest Palindrome](###-1.2-Longest-Palindrome-py)   
       * [2 Linked Lists](#2-lists-py)
