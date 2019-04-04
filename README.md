@@ -9,7 +9,7 @@ Click on the links below to view the questions and their answers.
 **Table of Contents**
 
 
-   * [C++](#-C++)
+   * [C++](#C++)
       * [1 Stings](##-1-Strings)
             * [1 Parenthesis Checker](###-1-Parathesis-Checker)
       * [2 Lists](#2-cpp-lists)
