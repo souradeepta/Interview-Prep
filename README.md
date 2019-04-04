@@ -10,8 +10,8 @@ Click on the links below to view the questions and their answers.
 
 
    * [C++](#C++)
-      * [1 Stings](##-1-Strings)
-            * [1 Parenthesis Checker](###-1-Parathesis-Checker)
+      * [1 Strings](##-1-Strings)\
+            - [1.1 Parenthesis Checker](###-1-Parathesis-Checker)
       * [2 Lists](#2-cpp-lists)
       * [3 Trees](#3-cpp-trees)
 
@@ -23,7 +23,7 @@ Click on the links below to view the questions and their answers.
 We shall look at string manipulation questions here.
 
 ***	
-### 1 Parathesis Checker
+### 1.1 Paranthesis Checker 
 Given an expression string **exp**. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 For example, the program should print 'balanced' for exp = “[()]{}{[()()]()}” and 'not balanced' for exp = “[(])”
 
@@ -33,11 +33,11 @@ The first line of input contains an integer T denoting the number of test cases.
 **Output:**
 Print 'balanced' without quotes if the pair of parenthesis is balanced else print 'not balanced' in a separate line.
 
-**Constraints:**
-1 ≤ T ≤ 100
+**Constraints:**\
+1 ≤ T ≤ 100\
 1 ≤ |s| ≤ 105
 
-**Example:**
+**Example:**\
 **Input:**
 ```code
 3
@@ -75,9 +75,7 @@ int check(char c[])
             s.pop();
         else
             return 0;
-
     }
-
 }
 }
 int main()
