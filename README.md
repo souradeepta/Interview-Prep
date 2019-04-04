@@ -12,7 +12,7 @@ Click on the links below to view the questions and their answers.
    * [C++](#C++)
       * [1 Strings](##-1-Strings)\
             - [1.1 Parenthesis Checker](###-1-Parathesis-Checker)
-      * [2 Lists](#2-cpp-lists)
+      * [2 Linked Lists](#2-cpp-lists)
       * [3 Trees](#3-cpp-trees)
 
 
